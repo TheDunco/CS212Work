@@ -1,0 +1,16 @@
+C:\Users\duncv\source\repos\FernExample\FernExample\bin\Debug\netcoreapp3.0\FernExample.exe
+C:\Users\duncv\source\repos\FernExample\FernExample\bin\Debug\netcoreapp3.0\FernExample.deps.json
+C:\Users\duncv\source\repos\FernExample\FernExample\bin\Debug\netcoreapp3.0\FernExample.runtimeconfig.json
+C:\Users\duncv\source\repos\FernExample\FernExample\bin\Debug\netcoreapp3.0\FernExample.runtimeconfig.dev.json
+C:\Users\duncv\source\repos\FernExample\FernExample\bin\Debug\netcoreapp3.0\FernExample.dll
+C:\Users\duncv\source\repos\FernExample\FernExample\bin\Debug\netcoreapp3.0\FernExample.pdb
+C:\Users\duncv\source\repos\FernExample\FernExample\obj\Debug\netcoreapp3.0\FernExample.csprojAssemblyReference.cache
+C:\Users\duncv\source\repos\FernExample\FernExample\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\duncv\source\repos\FernExample\FernExample\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\duncv\source\repos\FernExample\FernExample\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\duncv\source\repos\FernExample\FernExample\obj\Debug\netcoreapp3.0\FernExample_MarkupCompile.cache
+C:\Users\duncv\source\repos\FernExample\FernExample\obj\Debug\netcoreapp3.0\FernExample.g.resources
+C:\Users\duncv\source\repos\FernExample\FernExample\obj\Debug\netcoreapp3.0\FernExample.AssemblyInfoInputs.cache
+C:\Users\duncv\source\repos\FernExample\FernExample\obj\Debug\netcoreapp3.0\FernExample.AssemblyInfo.cs
+C:\Users\duncv\source\repos\FernExample\FernExample\obj\Debug\netcoreapp3.0\FernExample.dll
+C:\Users\duncv\source\repos\FernExample\FernExample\obj\Debug\netcoreapp3.0\FernExample.pdb

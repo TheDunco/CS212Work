@@ -1,0 +1,33 @@
+C:\Users\duncv\source\repos\Proj03-FractalFern\Proj03-FractalFern\bin\Debug\netcoreapp3.0\Proj03-FractalFern.exe
+C:\Users\duncv\source\repos\Proj03-FractalFern\Proj03-FractalFern\bin\Debug\netcoreapp3.0\Proj03-FractalFern.deps.json
+C:\Users\duncv\source\repos\Proj03-FractalFern\Proj03-FractalFern\bin\Debug\netcoreapp3.0\Proj03-FractalFern.runtimeconfig.json
+C:\Users\duncv\source\repos\Proj03-FractalFern\Proj03-FractalFern\bin\Debug\netcoreapp3.0\Proj03-FractalFern.runtimeconfig.dev.json
+C:\Users\duncv\source\repos\Proj03-FractalFern\Proj03-FractalFern\bin\Debug\netcoreapp3.0\Proj03-FractalFern.dll
+C:\Users\duncv\source\repos\Proj03-FractalFern\Proj03-FractalFern\bin\Debug\netcoreapp3.0\Proj03-FractalFern.pdb
+C:\Users\duncv\source\repos\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\Proj03-FractalFern.csprojAssemblyReference.cache
+C:\Users\duncv\source\repos\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\MainWindow.baml
+C:\Users\duncv\source\repos\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+C:\Users\duncv\source\repos\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\App.g.cs
+C:\Users\duncv\source\repos\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\Proj03-FractalFern_MarkupCompile.cache
+C:\Users\duncv\source\repos\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\Proj03-FractalFern.g.resources
+C:\Users\duncv\source\repos\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\Proj03-FractalFern.AssemblyInfoInputs.cache
+C:\Users\duncv\source\repos\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\Proj03-FractalFern.AssemblyInfo.cs
+C:\Users\duncv\source\repos\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\Proj03-FractalFern.dll
+C:\Users\duncv\source\repos\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\Proj03-FractalFern.pdb
+D:\School\CS 212\Proj03-FractalFernPreBasement\Proj03-FractalFern\Proj03-FractalFern\bin\Debug\netcoreapp3.0\Proj03-FractalFern.exe
+D:\School\CS 212\Proj03-FractalFernPreBasement\Proj03-FractalFern\Proj03-FractalFern\bin\Debug\netcoreapp3.0\Proj03-FractalFern.deps.json
+D:\School\CS 212\Proj03-FractalFernPreBasement\Proj03-FractalFern\Proj03-FractalFern\bin\Debug\netcoreapp3.0\Proj03-FractalFern.runtimeconfig.json
+D:\School\CS 212\Proj03-FractalFernPreBasement\Proj03-FractalFern\Proj03-FractalFern\bin\Debug\netcoreapp3.0\Proj03-FractalFern.runtimeconfig.dev.json
+D:\School\CS 212\Proj03-FractalFernPreBasement\Proj03-FractalFern\Proj03-FractalFern\bin\Debug\netcoreapp3.0\Proj03-FractalFern.dll
+D:\School\CS 212\Proj03-FractalFernPreBasement\Proj03-FractalFern\Proj03-FractalFern\bin\Debug\netcoreapp3.0\Proj03-FractalFern.pdb
+D:\School\CS 212\Proj03-FractalFernPreBasement\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\Proj03-FractalFern.csprojAssemblyReference.cache
+D:\School\CS 212\Proj03-FractalFernPreBasement\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\MainWindow.baml
+D:\School\CS 212\Proj03-FractalFernPreBasement\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\MainWindow.g.cs
+D:\School\CS 212\Proj03-FractalFernPreBasement\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\App.g.cs
+D:\School\CS 212\Proj03-FractalFernPreBasement\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\Proj03-FractalFern_MarkupCompile.cache
+D:\School\CS 212\Proj03-FractalFernPreBasement\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\Proj03-FractalFern.g.resources
+D:\School\CS 212\Proj03-FractalFernPreBasement\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\Proj03-FractalFern.AssemblyInfoInputs.cache
+D:\School\CS 212\Proj03-FractalFernPreBasement\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\Proj03-FractalFern.AssemblyInfo.cs
+D:\School\CS 212\Proj03-FractalFernPreBasement\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\Proj03-FractalFern.dll
+D:\School\CS 212\Proj03-FractalFernPreBasement\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\Proj03-FractalFern.pdb
+C:\Users\duncv\source\repos\Proj03-FractalFern\Proj03-FractalFern\obj\Debug\netcoreapp3.0\Proj03-FractalFern_Content.g.cs

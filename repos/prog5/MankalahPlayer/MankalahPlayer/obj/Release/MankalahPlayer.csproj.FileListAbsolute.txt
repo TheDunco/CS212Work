@@ -1,0 +1,7 @@
+C:\Users\duncv\source\repos\prog5\MankalahPlayer\MankalahPlayer\bin\Release\MankalahPlayer.dll
+C:\Users\duncv\source\repos\prog5\MankalahPlayer\MankalahPlayer\bin\Release\MankalahPlayer.pdb
+C:\Users\duncv\source\repos\prog5\MankalahPlayer\MankalahPlayer\bin\Release\MankalahLib.dll
+C:\Users\duncv\source\repos\prog5\MankalahPlayer\MankalahPlayer\obj\Release\MankalahPlayer.csprojAssemblyReference.cache
+C:\Users\duncv\source\repos\prog5\MankalahPlayer\MankalahPlayer\obj\Release\MankalahPlayer.csproj.CopyComplete
+C:\Users\duncv\source\repos\prog5\MankalahPlayer\MankalahPlayer\obj\Release\MankalahPlayer.dll
+C:\Users\duncv\source\repos\prog5\MankalahPlayer\MankalahPlayer\obj\Release\MankalahPlayer.pdb

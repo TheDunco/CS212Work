@@ -1,0 +1,11 @@
+C:\Users\duncv\source\repos\Djv78Mankalah\Mankalah\bin\Debug\netcoreapp3.0\Mankalah.exe
+C:\Users\duncv\source\repos\Djv78Mankalah\Mankalah\bin\Debug\netcoreapp3.0\Mankalah.deps.json
+C:\Users\duncv\source\repos\Djv78Mankalah\Mankalah\bin\Debug\netcoreapp3.0\Mankalah.runtimeconfig.json
+C:\Users\duncv\source\repos\Djv78Mankalah\Mankalah\bin\Debug\netcoreapp3.0\Mankalah.runtimeconfig.dev.json
+C:\Users\duncv\source\repos\Djv78Mankalah\Mankalah\bin\Debug\netcoreapp3.0\Mankalah.dll
+C:\Users\duncv\source\repos\Djv78Mankalah\Mankalah\bin\Debug\netcoreapp3.0\Mankalah.pdb
+C:\Users\duncv\source\repos\Djv78Mankalah\Mankalah\obj\Debug\netcoreapp3.0\Mankalah.AssemblyInfoInputs.cache
+C:\Users\duncv\source\repos\Djv78Mankalah\Mankalah\obj\Debug\netcoreapp3.0\Mankalah.AssemblyInfo.cs
+C:\Users\duncv\source\repos\Djv78Mankalah\Mankalah\obj\Debug\netcoreapp3.0\Mankalah.dll
+C:\Users\duncv\source\repos\Djv78Mankalah\Mankalah\obj\Debug\netcoreapp3.0\Mankalah.pdb
+C:\Users\duncv\source\repos\Djv78Mankalah\Mankalah\obj\Debug\netcoreapp3.0\Mankalah.csprojAssemblyReference.cache
