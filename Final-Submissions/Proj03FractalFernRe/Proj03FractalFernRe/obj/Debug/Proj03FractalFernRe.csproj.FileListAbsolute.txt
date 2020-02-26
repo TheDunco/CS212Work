@@ -1,0 +1,14 @@
+C:\Users\djv78\source\repos\Proj03FractalFernRe\Proj03FractalFernRe\obj\Debug\Proj03FractalFernRe.csprojAssemblyReference.cache
+C:\Users\djv78\source\repos\Proj03FractalFernRe\Proj03FractalFernRe\obj\Debug\MainWindow.baml
+C:\Users\djv78\source\repos\Proj03FractalFernRe\Proj03FractalFernRe\obj\Debug\MainWindow.g.cs
+C:\Users\djv78\source\repos\Proj03FractalFernRe\Proj03FractalFernRe\obj\Debug\App.g.cs
+C:\Users\djv78\source\repos\Proj03FractalFernRe\Proj03FractalFernRe\obj\Debug\Proj03FractalFernRe_MarkupCompile.cache
+C:\Users\djv78\source\repos\Proj03FractalFernRe\Proj03FractalFernRe\obj\Debug\Proj03FractalFernRe.g.resources
+C:\Users\djv78\source\repos\Proj03FractalFernRe\Proj03FractalFernRe\obj\Debug\Proj03FractalFernRe.Properties.Resources.resources
+C:\Users\djv78\source\repos\Proj03FractalFernRe\Proj03FractalFernRe\obj\Debug\Proj03FractalFernRe.csproj.GenerateResource.cache
+C:\Users\djv78\source\repos\Proj03FractalFernRe\Proj03FractalFernRe\obj\Debug\Proj03FractalFernRe.csproj.CoreCompileInputs.cache
+C:\Users\djv78\source\repos\Proj03FractalFernRe\Proj03FractalFernRe\bin\Debug\Proj03FractalFernRe.exe.config
+C:\Users\djv78\source\repos\Proj03FractalFernRe\Proj03FractalFernRe\bin\Debug\Proj03FractalFernRe.exe
+C:\Users\djv78\source\repos\Proj03FractalFernRe\Proj03FractalFernRe\bin\Debug\Proj03FractalFernRe.pdb
+C:\Users\djv78\source\repos\Proj03FractalFernRe\Proj03FractalFernRe\obj\Debug\Proj03FractalFernRe.exe
+C:\Users\djv78\source\repos\Proj03FractalFernRe\Proj03FractalFernRe\obj\Debug\Proj03FractalFernRe.pdb

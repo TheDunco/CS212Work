@@ -1,0 +1,11 @@
+C:\Users\duncv\source\repos\ProjectBingo\obj\Debug\netcoreapp3.0\ProjectBingo.csprojAssemblyReference.cache
+C:\Users\duncv\source\repos\ProjectBingo\obj\Debug\netcoreapp3.0\ProjectBingo.AssemblyInfoInputs.cache
+C:\Users\duncv\source\repos\ProjectBingo\obj\Debug\netcoreapp3.0\ProjectBingo.AssemblyInfo.cs
+C:\Users\duncv\source\repos\ProjectBingo\bin\Debug\netcoreapp3.0\ProjectBingo.exe
+C:\Users\duncv\source\repos\ProjectBingo\bin\Debug\netcoreapp3.0\ProjectBingo.deps.json
+C:\Users\duncv\source\repos\ProjectBingo\bin\Debug\netcoreapp3.0\ProjectBingo.runtimeconfig.json
+C:\Users\duncv\source\repos\ProjectBingo\bin\Debug\netcoreapp3.0\ProjectBingo.runtimeconfig.dev.json
+C:\Users\duncv\source\repos\ProjectBingo\bin\Debug\netcoreapp3.0\ProjectBingo.dll
+C:\Users\duncv\source\repos\ProjectBingo\bin\Debug\netcoreapp3.0\ProjectBingo.pdb
+C:\Users\duncv\source\repos\ProjectBingo\obj\Debug\netcoreapp3.0\ProjectBingo.dll
+C:\Users\duncv\source\repos\ProjectBingo\obj\Debug\netcoreapp3.0\ProjectBingo.pdb
